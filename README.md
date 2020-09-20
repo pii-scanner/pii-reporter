@@ -1,7 +1,7 @@
 
 ##**PII REPORT**
 
-This repository contains a report on the fields used in com.citi.cpb and annotations implemented on them.
+This repository contains a report on the fields used in com.pii.scanner and annotations implemented on them.
 
 ---
 
